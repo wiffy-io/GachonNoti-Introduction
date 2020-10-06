@@ -1,5 +1,5 @@
 ❗ 보안 문제로 코드를 비공개 처리하였습니다.
-# GachonNoti-android
+# GachonNoti-Introduction
 
 <pre><a href="https://play.google.com/store/apps/details?id=io.wiffy.gachonNoti">https://play.google.com/store/apps/details?id=io.wiffy.gachonNoti/</a></pre>
 
